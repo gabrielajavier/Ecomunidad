@@ -68,10 +68,13 @@ a:active{
   color:#4a8130 !important;
 }
 .gray{
-  color: #4c4c4c;
+  color: #3a3c49;
 }
 .bg-green{
   background-color: #a7c244;
+}
+.bg-brown{
+  background-color: #5b2e14;
 }
 /*========== PADDING Y MARGIN ==========*/
 .pd-0{
@@ -83,6 +86,9 @@ a:active{
 /*========== FONT ==========*/
 .f-17{
   font-size: 17px;
+}
+.f-600{
+  font-weight: 600;
 }
 /*========== VIDEO ==========*/
 .videoWrapper {

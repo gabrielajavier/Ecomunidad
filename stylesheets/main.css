@@ -55,10 +55,13 @@ a:active {
   color: #4a8130 !important; }
 
 .gray {
-  color: #4c4c4c; }
+  color: #3a3c49; }
 
 .bg-green {
   background-color: #a7c244; }
+
+.bg-brown {
+  background-color: #5b2e14; }
 
 /*========== PADDING Y MARGIN ==========*/
 .pd-0 {
@@ -70,6 +73,9 @@ a:active {
 /*========== FONT ==========*/
 .f-17 {
   font-size: 17px; }
+
+.f-600 {
+  font-weight: 600; }
 
 /*========== VIDEO ==========*/
 .videoWrapper {
@@ -140,5 +146,59 @@ a:active {
     width: 50px; }
   .contenido-metodologia p {
     margin-top: 30px; }
+
+/*========== metodologia ==========*/
+.servicios {
+  padding: 50px 0 30px; }
+
+.text-servicios p {
+  padding: 20px 17%; }
+
+.clase-servicios {
+  padding-top: 30px; }
+  .clase-servicios img {
+    width: 25%; }
+  .clase-servicios p {
+    padding: 15px 30px; }
+
+/*========== propyecto ==========*/
+.proyectos h1 {
+  padding: 48px 0 25px; }
+
+.box-proyecto {
+  padding: 0px 0px 60px; }
+  .box-proyecto img {
+    border: 7px solid #fff; }
+
+.contenido-proyect {
+  padding-top: 55px; }
+  .contenido-proyect p {
+    padding: 20px 50px; }
+
+/*========== equipo ==========*/
+.equipo {
+  padding: 50px 0 30px; }
+
+.texto-equipo {
+  padding-top: 30px; }
+  .texto-equipo .foto-perfil img {
+    width: 60%;
+    border-radius: 50%;
+    border: 4px solid #fff;
+    box-shadow: 4px 4px 14px #e3e3e3; }
+  .texto-equipo span {
+    font-weight: 600; }
+  .texto-equipo p {
+    padding: 5% 5% 0; }
+  .texto-equipo .redes-sociales {
+    padding-top: 20px;
+    display: inline-block; }
+    .texto-equipo .redes-sociales ul {
+      list-style: none; }
+    .texto-equipo .redes-sociales li {
+      padding: 0 3px;
+      float: left; }
+    .texto-equipo .redes-sociales img {
+      width: 25px; }
 
 /*# sourceMappingURL=main.css.map */
